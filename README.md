@@ -2,13 +2,15 @@
 
 *Loves exploring new technologies and working with areas involving cyber security!*
 
-🔗 https://chung.digital/
+🔗 [My website](https://chung.digital/)
 
-👨‍💻 https://gist.github.com/alex-chung-brisbane
+📚 [My blog](https://chung.digital/blog/)
+
+👨‍💻 [View my Gists (code snippets)](https://gist.github.com/alex-chung-brisbane)
 
 > Get in touch
 > 
-> 📷 https://www.instagram.com/alex_skye_chung/
+> 📷 [Instagram @alex_skye_chung](https://www.instagram.com/alex_skye_chung/)
 > 
 > 🔷 (Discord) Chimkim#1448
 
@@ -18,7 +20,7 @@
 
 > Hosted
 > 
-> 🔐 [Synergy password generator](https://chung.digital/synergy)
+> 🔐 [Synergy password generator](https://chung.digital/synergy/)
 > 
 > 📝 [Fillr repetitive text generator](https://chung.digital/fillr/)
 
