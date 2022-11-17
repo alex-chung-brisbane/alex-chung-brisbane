@@ -14,6 +14,16 @@
 
 ***
 
+## Showcase
+
+> Hosted
+> 
+> 🔐 [Synergy password generator](https://chung.digital/synergy)
+> 
+> 📝 [Fillr repetitive text generator](https://chung.digital/fillr/)
+
+***
+
 Talk to me about:
 
 - Cyber security
